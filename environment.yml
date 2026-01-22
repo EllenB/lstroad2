@@ -1,0 +1,16 @@
+name: uhi-road
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - mamba
+  - geemap
+  - geopandas
+  - localtileserver
+  - ipykernel
+  - osmnx
+  - notebook
+  - momepy
+  - statsmodels
+  - seaborn
+
