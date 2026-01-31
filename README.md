@@ -2,6 +2,8 @@
 
 This repository is still under progress/revision as this work is still (very) preliminary. Comments are welcome!
 
+This work was presented in the [FOSS4GAsia 2026, Nashik](https://foss4g.asia/2026/program/schedule/) conference on 23rd January 2026.
+
 If you find any issues/errors and/or have any questions, please log an issue in this repository. Thank you. 
 
 How can you run this repository?
@@ -30,7 +32,7 @@ This works greatly benefits from the tutorials, software packages, work and scri
 
 - [Tutorials of Spatial Thoughts](https://spatialthoughts.com/) by [Ujaval Gandhi](https://github.com/spatialthoughts)
 
-- [QGIS](https://qgis.org/) (occasianally for viewing some maps)
+- [QGIS](https://qgis.org/) (occasionally for viewing some maps)
 
 - [Mapshaper](https://mapshaper.org/) by [Matthew Bloch](https://github.com/mbloch/mapshaper)
 
