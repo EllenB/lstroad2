@@ -1,6 +1,6 @@
 # Road Network Characteristics and Land Surface Temperature in Bangalore and Chennai 
 
-This repository is still under progress/revision as this work is still (very) preliminary. Comments are welcome!
+This repository is still under progress and . Comments are welcome! Paper is under preparation for submission. 
 
 This work was presented in the [FOSS4GAsia 2026, Nashik](https://foss4g.asia/2026/program/schedule/) conference on 23rd January 2026.
 
